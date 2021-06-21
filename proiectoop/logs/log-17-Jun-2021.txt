@@ -1,0 +1,8 @@
+[17-Jun-2021 16:57:07] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 16:59:54] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 16:59:57] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 17:01:19] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 17:01:54] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 17:28:24] [localhost/aplicatii/CursPHP-master/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[17-Jun-2021 17:30:56] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[17-Jun-2021 17:31:12] [localhost/aplicatii/CursPHP-master/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
